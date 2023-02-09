@@ -2,7 +2,7 @@ h1{
     font-family: 'Rock Salt', cursive;
     font-size: 40px;
 }
-h2 , h3 , p , a{
+h2 , h3 , p , a ,li{
     font-family: 'Open Sans', sans-serif;
 }
 .title{
@@ -18,7 +18,13 @@ body{
 }
 .list-of-recipe{
     margin: 10px auto;
-    width: 400px;
-    text-align: left;
+    width: 600px;
+    text-align: justify;
+    color: #332C39;
+}
+.paragraph{
+    margin: 10px auto;
+    width: 600px;
+    text-align: justify;
     color: #332C39;
 }
