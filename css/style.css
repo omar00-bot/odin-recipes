@@ -1,0 +1,24 @@
+h1{
+    font-family: 'Rock Salt', cursive;
+    font-size: 40px;
+}
+h2 , h3 , p , a{
+    font-family: 'Open Sans', sans-serif;
+}
+.title{
+    text-align: center;
+    margin: 10px auto;
+}
+img{
+    margin: 10px auto;
+}
+body{
+    text-align: center;
+    background-color: #BEF0CB;
+}
+.list-of-recipe{
+    margin: 10px auto;
+    width: 400px;
+    text-align: left;
+    color: #332C39;
+}
